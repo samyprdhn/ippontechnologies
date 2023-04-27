@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <img src={IpponSquare} className="Square-logo-spin" alt="IpponSquare" />
+          <img src={IpponSquare} className="Square-logo-spin" alt="IpponSquare"/>
           <br></br>
           <br></br>
-        <img src={IpponTextLogo} className="Ippon-logo" alt="IpponWording" />
+          <a href="https://us.ippon.tech/"><img src={IpponTextLogo} className="Ippon-logo" alt="IpponWording"/></a>
       </header>
 
 
