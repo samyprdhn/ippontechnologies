@@ -15,6 +15,7 @@
 @media (prefers-reduced-motion: no-preference) {
   .Ippon-logo {
     animation: wavyText infinite 5s ease-in-out;
+    animation-direction: alternate-reverse;
   }
 }
 
